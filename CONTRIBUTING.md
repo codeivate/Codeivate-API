@@ -1,5 +1,4 @@
 ## CodeIvate API
----
 This is a little "Battle Game" made with the CodeIvate API.
 
 You need to download "composer `(locally)`"
