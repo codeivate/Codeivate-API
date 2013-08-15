@@ -1,0 +1,64 @@
+/**
+ * Imports
+ */
+@import "bootstrap.min.less";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400);
+@import "mixins.less";
+@import "font-awesome.less";
+
+/**
+ * Variables
+ */
+@backgroundColor: #f1f1f2;
+@baseColor: #555;
+@padding: 15px;
+
+/**
+ * Main Css
+ */
+body {
+	background: @backgroundColor;
+	color: @baseColor;
+	font-family: 'Open Sans', Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding-top: 25px;
+}
+
+.panel {
+    background: #fff;
+    .border-radius;
+    .drop-shadow;
+    padding: 15px;
+}
+.centerGrid {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.battleTable {
+    thead {
+        tr {
+            th:not(:first-child) {
+                text-align: center;
+            }
+        }
+    }
+    tbody {
+        tr {
+            td:not(:first-child) {
+                text-align: center;
+            }
+        }
+    }
+}
+
+.allow {
+    color: #2D9933;
+}
+
+.deny {
+    color: #94090D;
+}
