@@ -3,6 +3,7 @@
 	"description": "The Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"require": {
+		"midgard/midgardmvc-helper-urlize": "*",
 		"laravel/framework": "4.0.*"
 	},
 	"require-dev": {
