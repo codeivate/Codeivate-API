@@ -1,4 +1,4 @@
-## CodeIvate API
+## Codeivate API
 ---
 This is a little "Battle Game" made with the CodeIvate API.
 
