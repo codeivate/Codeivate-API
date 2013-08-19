@@ -1,6 +1,6 @@
 ## Codeivate API
 ---
-This is a little "Battle Game" made with the CodeIvate API.
+This is a little "Battle Game" made with the Codeivate API.
 
 You need to download "composer `(locally)`"
 
@@ -26,9 +26,9 @@ Next you need to download this repo into your `sites` or `htdocs` folder or wher
 Open a terminal cd into that directory and do this:
 
 ```
-$ git clone https://github.com/RobinMalfait/CodeIvate-API.git "CodeIvateAPIBattle"
+$ git clone https://github.com/RobinMalfait/CodeIvate-API.git "CodeivateAPIBattle"
 ```
 
-Once that is done, `$ cd` into that `CodeIvateAPIBattle` and run `$ composer install`
+Once that is done, `$ cd` into that `CodeivateAPIBattle` and run `$ composer install`
 
 That's it :)
